@@ -1,0 +1,14 @@
+
+*.bin
+*.xml
+*.lock
+*.rawproto
+*.jar
+*.properties
+*.properties
+*.properties
+*.gradle
+*.iml
+*.gradle
+app/build.gradle
+*.gradle
